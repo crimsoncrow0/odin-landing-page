@@ -114,7 +114,6 @@ button a {
     text-align: center;
 }
 
-
 .blocks {
     display: flex;
     gap: 20px;
@@ -134,7 +133,6 @@ button a {
     border-radius: 8px;
     margin: 0 auto;
 }
-.blocks .block p {}
 
 .quote {
     background-color: #E5E7EB;
@@ -177,7 +175,6 @@ button a {
     margin-block-start: 10px;
     margin-block-end: 0;
     color: #F9FAF8;
-    
 }
 
 .action button {
