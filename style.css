@@ -2,6 +2,35 @@ body {
     background: #fff;
 }
 
-.container {
-    max-width: 1200px;
-}
+h1 {}
+p {}
+button {}
+
+.top {}
+.nav {}
+.nav .logo {}
+.nav ul {}
+.nav ul li {}
+.nav ul li a {}
+
+.hero {}
+.hero .hero-text {}
+.hero img {}
+
+.content {}
+.blocks {}
+.blocks .block {}
+.blocks .block .image-place {}
+.blocks .block p {}
+
+.quote {}
+.quote p {}
+.quote .author {}
+
+.action {}
+.action .action-text {}
+.action .action-text .title {}
+.action .action-text p {}
+.action button {}
+
+.footer {}
